@@ -16,7 +16,7 @@
 
 - *For adding a note:*
 
- `node app.js add --title=<NAME_OF_TITLE> --description=<DESCRIPTION_RELATED_TO_TITLE>`
+ `node app.js add --title=<NAME_OF_TITLE> --description=<DESCRIPTION>`
  
 - *For reading a note:*
 
